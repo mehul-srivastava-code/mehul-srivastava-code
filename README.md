@@ -11,16 +11,18 @@ mehul@github:~$ cat mission.txt
 Building intelligent systems, automating infrastructure,
 and deploying scalable machine learning applications.
 
+---
+
 "$ about_me"
 
 Early-career engineer with hands-on experience in System Administration, Cloud Infrastructure, DevOps, and AI-driven automation.
 
--  DevOps: CI/CD, Docker, Kubernetes, Terraform.
--  Cloud: Microsoft Azure, AWS, Oracle Cloud Infrastructure.
--  Machine Learning: Classical ML, Ensemble Learning, Transformers.
--  Agentic AI: LangChain, LangGraph, Multi-Agent Systems.
--  MLOps: ML pipeline automation and model deployment.
--  Programming: Python, Bash.
+- ⚙️ DevOps: CI/CD, Docker, Kubernetes, Terraform.
+- ☁️ Cloud: Microsoft Azure, AWS, Oracle Cloud Infrastructure.
+- 🤖 Machine Learning: Classical ML, Ensemble Learning, Transformers.
+- 🧠 Agentic AI: LangChain, LangGraph, Multi-Agent Systems.
+- 🔄 MLOps: ML pipeline automation and model deployment.
+- 🐍 Programming: Python, Bash.
 
 Current focus: Cloud-native infrastructure, MLOps pipelines and Agentic AI.
 
@@ -30,21 +32,21 @@ Current focus: Cloud-native infrastructure, MLOps pipelines and Agentic AI.
 
 01. DevOps & Cloud Engineering
 
-"Linux" (https://img.shields.io/badge/Linux-181818?style=flat-square&logo=linux)
-"Docker" (https://img.shields.io/badge/Docker-181818?style=flat-square&logo=docker)
-"Kubernetes" (https://img.shields.io/badge/Kubernetes-181818?style=flat-square&logo=kubernetes)
-"Jenkins" (https://img.shields.io/badge/Jenkins-181818?style=flat-square&logo=jenkins)
-"Terraform" (https://img.shields.io/badge/Terraform-181818?style=flat-square&logo=terraform)
-"Ansible" (https://img.shields.io/badge/Ansible-181818?style=flat-square&logo=ansible)
-"AWS" (https://img.shields.io/badge/AWS-181818?style=flat-square&logo=amazonaws)
-"Azure" (https://img.shields.io/badge/Azure-181818?style=flat-square&logo=microsoftazure)
+"Linux" (https://img.shields.io/badge/Linux-181818?style=flat-square&logo=linux&logoColor=white)
+"Docker" (https://img.shields.io/badge/Docker-181818?style=flat-square&logo=docker&logoColor=2496ED)
+"Kubernetes" (https://img.shields.io/badge/Kubernetes-181818?style=flat-square&logo=kubernetes&logoColor=326CE5)
+"Jenkins" (https://img.shields.io/badge/Jenkins-181818?style=flat-square&logo=jenkins&logoColor=D24939)
+"Terraform" (https://img.shields.io/badge/Terraform-181818?style=flat-square&logo=terraform&logoColor=844FBA)
+"Ansible" (https://img.shields.io/badge/Ansible-181818?style=flat-square&logo=ansible&logoColor=white)
+"AWS" (https://img.shields.io/badge/AWS-181818?style=flat-square&logo=amazonaws&logoColor=FF9900)
+"Azure" (https://img.shields.io/badge/Azure-181818?style=flat-square&logo=microsoftazure&logoColor=0078D4)
 
 02. Machine Learning & Data Science
 
-"Python" (https://img.shields.io/badge/Python-181818?style=flat-square&logo=python)
-"Scikit Learn" (https://img.shields.io/badge/Scikit--Learn-181818?style=flat-square&logo=scikitlearn)
-"NumPy" (https://img.shields.io/badge/NumPy-181818?style=flat-square&logo=numpy)
-"Pandas" (https://img.shields.io/badge/Pandas-181818?style=flat-square&logo=pandas)
+"Python" (https://img.shields.io/badge/Python-181818?style=flat-square&logo=python&logoColor=3776AB)
+"Scikit Learn" (https://img.shields.io/badge/Scikit--Learn-181818?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+"NumPy" (https://img.shields.io/badge/NumPy-181818?style=flat-square&logo=numpy&logoColor=013243)
+"Pandas" (https://img.shields.io/badge/Pandas-181818?style=flat-square&logo=pandas&logoColor=150458)
 
 Machine Learning Algorithms
 
@@ -58,9 +60,10 @@ Machine Learning Algorithms
 
 03. Agentic AI & LLM Engineering
 
-"LangChain" (https://img.shields.io/badge/LangChain-181818?style=flat-square&logo=chainlink)
-"OpenAI" (https://img.shields.io/badge/OpenAI-181818?style=flat-square&logo=openai)
-"FastAPI" (https://img.shields.io/badge/FastAPI-181818?style=flat-square&logo=fastapi)
+"LangChain" (https://img.shields.io/badge/LangChain-181818?style=flat-square&logo=chainlink&logoColor=white)
+"LangGraph" (https://img.shields.io/badge/LangGraph-181818?style=flat-square&logo=langchain&logoColor=white)
+"OpenAI" (https://img.shields.io/badge/OpenAI-181818?style=flat-square&logo=openai&logoColor=white)
+"FastAPI" (https://img.shields.io/badge/FastAPI-181818?style=flat-square&logo=fastapi&logoColor=009688)
 
 - LangChain
 - LangGraph
@@ -81,9 +84,9 @@ Machine Learning Algorithms
 
 05. Monitoring & Observability
 
-"Prometheus" (https://img.shields.io/badge/Prometheus-181818?style=flat-square&logo=prometheus)
-"Grafana" (https://img.shields.io/badge/Grafana-181818?style=flat-square&logo=grafana)
-"Elastic" (https://img.shields.io/badge/ELK_Stack-181818?style=flat-square&logo=elastic)
+"Prometheus" (https://img.shields.io/badge/Prometheus-181818?style=flat-square&logo=prometheus&logoColor=E6522C)
+"Grafana" (https://img.shields.io/badge/Grafana-181818?style=flat-square&logo=grafana&logoColor=F46800)
+"Elastic" (https://img.shields.io/badge/ELK_Stack-181818?style=flat-square&logo=elastic&logoColor=white)
 
 - Prometheus
 - Grafana
@@ -148,10 +151,10 @@ Pranveer Singh Institute of Technology
 "$ github_statistics"
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehul-srivastava-code&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-srivastava-code&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehul-srivastava-code&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-srivastava-code&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p><p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=mehul-srivastava-code&theme=github-dark-blue&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=mehul-srivastava-code&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>---
 
 "$ currently_learning"
@@ -167,9 +170,9 @@ Pranveer Singh Institute of Technology
 
 "$ connect_with_me"
 
--  LinkedIn: "Connect with me" (https://www.linkedin.com/in/mehul-srivastava-ab2538299/)
--  GitHub: "mehul-srivastava-code" (https://github.com/mehul-srivastava-code)
--  Email: "mehul28000@gmail.com" (mailto:mehul28000@gmail.com)
+- 💼 LinkedIn: "Connect with me" (https://www.linkedin.com/in/mehul-srivastava-ab2538299/)
+- 🐙 GitHub: "mehul-srivastava-code" (https://github.com/mehul-srivastava-code)
+- 📧 Email: "mehul28000@gmail.com" (mailto:mehul28000@gmail.com)
 
 mehul@github:~$ echo "Automate. Deploy. Learn. Repeat."
 Automate. Deploy. Learn. Repeat.
