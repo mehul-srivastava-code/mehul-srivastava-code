@@ -49,11 +49,7 @@
 
 ---
 
-## `$ certifications`
-
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- OCI Networking Professional
-- OCI DevOps Professional
+<img src="certifications.svg" alt="Certifications and skills gained" width="100%" />
 
 ## `$ education`
 
