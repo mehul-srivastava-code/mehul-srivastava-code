@@ -1,4 +1,4 @@
-![Mehul Srivastava - DevOps MLOps AI](profile-banner.png)
+![Mehul Srivastava - DevOps MLOps AI](banner.svg)
 
 # Mehul Srivastava
 
